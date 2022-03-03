@@ -1,0 +1,4 @@
+Test case#1: Target 14 achievable by 5 and 9
+Test case#2: Target 11 is NOT achievable.
+Test case#3: Target 16 achievable by 6 and 10
+Test case#4: Target 16 achievable by 6 and 10
